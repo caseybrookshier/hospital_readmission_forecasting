@@ -117,7 +117,7 @@ hospital_readmission_forecasting/
 ## 🚀 How to Run (Mac)
 
 ```bash
-git clone https://github.com/CrassSax7/hospital_readmission_forecasting.git
+git clone https://github.com/caseybrookshier/hospital_readmission_forecasting.git
 cd hospital_readmission_forecasting
 
 python3 -m venv venv
@@ -137,7 +137,7 @@ python src/train_readmissions_model.py
 ## 🚀 How to Run (Windows)
 
 ```bash
-git clone https://github.com/CrassSax7/hospital_readmission_forecasting.git
+git clone https://github.com/caseybrookshier/hospital_readmission_forecasting.git
 cd hospital_readmission_forecasting
 
 python -m venv venv
